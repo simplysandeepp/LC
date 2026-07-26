@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-25T14:03:05.398Z",
+  "lastUpdated": "2026-07-26T06:48:08.660Z",
   "stats": {
-    "total": 596,
+    "total": 597,
     "difficulty": {
-      "Easy": 215,
+      "Easy": 216,
       "Medium": 289,
       "Hard": 92
     },
     "platform": {
-      "LeetCode": 574,
+      "LeetCode": 575,
       "GFG": 22
     },
     "languages": {
-      "Java": 542,
+      "Java": 543,
       "SQL": 32,
       "Python": 4
     }
@@ -3055,6 +3055,20 @@
         "0607-sales-person.sql"
       ],
       "url": "https://leetcode.com/problems/sales-person"
+    },
+    {
+      "number": 628,
+      "title": "Maximum Product of Three Numbers",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0628-maximum-product-of-three-numbers",
+      "solutionFiles": [
+        "0628-maximum-product-of-three-numbers.java"
+      ],
+      "url": "https://leetcode.com/problems/maximum-product-of-three-numbers"
     },
     {
       "number": 643,
