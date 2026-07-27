@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-27T21:00:40.913Z",
+  "lastUpdated": "2026-07-27T21:23:54.835Z",
   "stats": {
-    "total": 599,
+    "total": 600,
     "difficulty": {
-      "Easy": 218,
+      "Easy": 219,
       "Medium": 289,
       "Hard": 92
     },
     "platform": {
-      "LeetCode": 577,
+      "LeetCode": 578,
       "GFG": 22
     },
     "languages": {
-      "Java": 545,
+      "Java": 546,
       "SQL": 32,
       "Python": 4
     }
@@ -6017,6 +6017,20 @@
         "2462-total-cost-to-hire-k-workers.java"
       ],
       "url": "https://leetcode.com/problems/total-cost-to-hire-k-workers/?envType=study-plan-v2&envId=leetcode-75"
+    },
+    {
+      "number": 2465,
+      "title": "Number of Distinct Averages",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2465-number-of-distinct-averages",
+      "solutionFiles": [
+        "2465-number-of-distinct-averages.java"
+      ],
+      "url": "https://leetcode.com/problems/number-of-distinct-averages"
     },
     {
       "number": 2469,
