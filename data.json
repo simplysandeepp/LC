@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-26T06:48:08.660Z",
+  "lastUpdated": "2026-07-27T08:32:00.527Z",
   "stats": {
-    "total": 597,
+    "total": 598,
     "difficulty": {
-      "Easy": 216,
+      "Easy": 217,
       "Medium": 289,
       "Hard": 92
     },
     "platform": {
-      "LeetCode": 575,
+      "LeetCode": 576,
       "GFG": 22
     },
     "languages": {
-      "Java": 543,
+      "Java": 544,
       "SQL": 32,
       "Python": 4
     }
@@ -4629,6 +4629,20 @@
         "1463-cherry-pickup-ii.java"
       ],
       "url": "https://leetcode.com/problems/cherry-pickup-ii"
+    },
+    {
+      "number": 1464,
+      "title": "Maximum Product of Two Elements in an Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1464-maximum-product-of-two-elements-in-an-array",
+      "solutionFiles": [
+        "1464-maximum-product-of-two-elements-in-an-array.java"
+      ],
+      "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array"
     },
     {
       "number": 1466,
