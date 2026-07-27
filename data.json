@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-27T08:32:00.527Z",
+  "lastUpdated": "2026-07-27T21:00:40.913Z",
   "stats": {
-    "total": 598,
+    "total": 599,
     "difficulty": {
-      "Easy": 217,
+      "Easy": 218,
       "Medium": 289,
       "Hard": 92
     },
     "platform": {
-      "LeetCode": 576,
+      "LeetCode": 577,
       "GFG": 22
     },
     "languages": {
-      "Java": 544,
+      "Java": 545,
       "SQL": 32,
       "Python": 4
     }
@@ -4797,6 +4797,20 @@
         "1502-can-make-arithmetic-progression-from-sequence.java"
       ],
       "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence"
+    },
+    {
+      "number": 1512,
+      "title": "Number of Good Pairs",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1512-number-of-good-pairs",
+      "solutionFiles": [
+        "1512-number-of-good-pairs.java"
+      ],
+      "url": "https://leetcode.com/problems/number-of-good-pairs"
     },
     {
       "number": 1513,
