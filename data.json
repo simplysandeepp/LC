@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-29T04:08:01.760Z",
+  "lastUpdated": "2026-07-29T05:25:31.585Z",
   "stats": {
-    "total": 603,
+    "total": 604,
     "difficulty": {
       "Easy": 219,
       "Medium": 291,
-      "Hard": 93
+      "Hard": 94
     },
     "platform": {
-      "LeetCode": 581,
+      "LeetCode": 582,
       "GFG": 22
     },
     "languages": {
-      "Java": 549,
+      "Java": 550,
       "SQL": 32,
       "Python": 4
     }
@@ -6783,6 +6783,20 @@
         "3228-maximum-number-of-operations-to-move-ones-to-the-end.java"
       ],
       "url": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/?envType=daily-question&envId=2025-11-13"
+    },
+    {
+      "number": 3229,
+      "title": "Minimum Operations to Make Array Equal to Target",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3229-minimum-operations-to-make-array-equal-to-target",
+      "solutionFiles": [
+        "3229-minimum-operations-to-make-array-equal-to-target.java"
+      ],
+      "url": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target"
     },
     {
       "number": 3234,
