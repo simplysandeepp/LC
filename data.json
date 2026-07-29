@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-29T03:54:18.379Z",
+  "lastUpdated": "2026-07-29T04:08:01.760Z",
   "stats": {
-    "total": 602,
+    "total": 603,
     "difficulty": {
       "Easy": 219,
-      "Medium": 290,
+      "Medium": 291,
       "Hard": 93
     },
     "platform": {
-      "LeetCode": 580,
+      "LeetCode": 581,
       "GFG": 22
     },
     "languages": {
-      "Java": 548,
+      "Java": 549,
       "SQL": 32,
       "Python": 4
     }
@@ -3985,6 +3985,20 @@
         "1092-shortest-common-supersequence.java"
       ],
       "url": "https://leetcode.com/problems/shortest-common-supersequence"
+    },
+    {
+      "number": 1094,
+      "title": "Car Pooling",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1094-car-pooling",
+      "solutionFiles": [
+        "1094-car-pooling.java"
+      ],
+      "url": "https://leetcode.com/problems/car-pooling"
     },
     {
       "number": 1108,
