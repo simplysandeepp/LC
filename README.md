@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/simplysandeepp/DSA/tree/main/0178-rank-scores/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/simplysandeepp/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0607-sales-person](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0607-sales-person/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
