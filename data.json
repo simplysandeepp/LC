@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-29T14:27:04.578Z",
+  "lastUpdated": "2026-07-29T14:48:42.076Z",
   "stats": {
-    "total": 604,
+    "total": 605,
     "difficulty": {
       "Easy": 219,
-      "Medium": 291,
+      "Medium": 292,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 582,
+      "LeetCode": 583,
       "GFG": 22
     },
     "languages": {
       "Java": 550,
-      "SQL": 32,
+      "SQL": 33,
       "Python": 4
     }
   },
@@ -2901,6 +2901,20 @@
         "0560-subarray-sum-equals-k.java"
       ],
       "url": "https://leetcode.com/problems/subarray-sum-equals-k"
+    },
+    {
+      "number": 570,
+      "title": "Managers with at Least 5 Direct Reports",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0570-managers-with-at-least-5-direct-reports",
+      "solutionFiles": [
+        "0570-managers-with-at-least-5-direct-reports.sql"
+      ],
+      "url": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports"
     },
     {
       "number": 572,
