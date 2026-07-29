@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-28T18:00:50.780Z",
+  "lastUpdated": "2026-07-29T03:54:18.379Z",
   "stats": {
-    "total": 601,
+    "total": 602,
     "difficulty": {
       "Easy": 219,
       "Medium": 290,
-      "Hard": 92
+      "Hard": 93
     },
     "platform": {
-      "LeetCode": 579,
+      "LeetCode": 580,
       "GFG": 22
     },
     "languages": {
-      "Java": 547,
+      "Java": 548,
       "SQL": 32,
       "Python": 4
     }
@@ -7199,6 +7199,20 @@
         "3517-smallest-palindromic-rearrangement-i.java"
       ],
       "url": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/?envType=daily-question&envId=2026-07-28"
+    },
+    {
+      "number": 3518,
+      "title": "Smallest Palindromic Rearrangement II",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3518-smallest-palindromic-rearrangement-ii",
+      "solutionFiles": [
+        "3518-smallest-palindromic-rearrangement-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii"
     },
     {
       "number": 3532,
