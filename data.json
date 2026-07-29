@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T06:39:06.846Z",
+  "lastUpdated": "2026-07-29T14:27:04.578Z",
   "stats": {
     "total": 604,
     "difficulty": {
@@ -1574,7 +1574,7 @@
       "solutionFiles": [
         "0178-rank-scores.sql"
       ],
-      "url": "https://leetcode.com/problems/rank-scores/"
+      "url": "https://leetcode.com/problems/rank-scores/description/"
     },
     {
       "number": 179,
