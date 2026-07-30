@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-30T07:42:50.379Z",
+  "lastUpdated": "2026-07-30T19:09:36.228Z",
   "stats": {
-    "total": 606,
+    "total": 607,
     "difficulty": {
       "Easy": 220,
-      "Medium": 292,
+      "Medium": 293,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 584,
+      "LeetCode": 585,
       "GFG": 22
     },
     "languages": {
       "Java": 551,
-      "SQL": 33,
+      "SQL": 34,
       "Python": 4
     }
   },
@@ -3069,6 +3069,20 @@
         "0607-sales-person.sql"
       ],
       "url": "https://leetcode.com/problems/sales-person"
+    },
+    {
+      "number": 608,
+      "title": "Tree Node",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0608-tree-node",
+      "solutionFiles": [
+        "0608-tree-node.sql"
+      ],
+      "url": "https://leetcode.com/problems/tree-node"
     },
     {
       "number": 628,
