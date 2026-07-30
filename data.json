@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-30T19:43:39.789Z",
+  "lastUpdated": "2026-07-30T20:10:59.340Z",
   "stats": {
-    "total": 608,
+    "total": 609,
     "difficulty": {
-      "Easy": 220,
+      "Easy": 221,
       "Medium": 294,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 586,
+      "LeetCode": 587,
       "GFG": 22
     },
     "languages": {
       "Java": 551,
-      "SQL": 35,
+      "SQL": 36,
       "Python": 4
     }
   },
@@ -3097,6 +3097,20 @@
         "0608-tree-node.sql"
       ],
       "url": "https://leetcode.com/problems/tree-node"
+    },
+    {
+      "number": 610,
+      "title": "Triangle Judgement",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0610-triangle-judgement",
+      "solutionFiles": [
+        "0610-triangle-judgement.sql"
+      ],
+      "url": "https://leetcode.com/problems/triangle-judgement"
     },
     {
       "number": 628,
