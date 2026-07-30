@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-29T14:48:42.076Z",
+  "lastUpdated": "2026-07-30T07:42:50.379Z",
   "stats": {
-    "total": 605,
+    "total": 606,
     "difficulty": {
-      "Easy": 219,
+      "Easy": 220,
       "Medium": 292,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 583,
+      "LeetCode": 584,
       "GFG": 22
     },
     "languages": {
-      "Java": 550,
+      "Java": 551,
       "SQL": 33,
       "Python": 4
     }
@@ -6619,6 +6619,20 @@
         "3003-maximize-the-number-of-partitions-after-operations.java"
       ],
       "url": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/?envType=daily-question&envId=2025-10-17"
+    },
+    {
+      "number": 3014,
+      "title": "Minimum Number of Pushes to Type Word I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3014-minimum-number-of-pushes-to-type-word-i",
+      "solutionFiles": [
+        "3014-minimum-number-of-pushes-to-type-word-i.java"
+      ],
+      "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/description/?envType=daily-question&envId=2026-07-30"
     },
     {
       "number": 3043,
