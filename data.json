@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-30T20:10:59.340Z",
+  "lastUpdated": "2026-07-31T03:31:20.694Z",
   "stats": {
-    "total": 609,
+    "total": 610,
     "difficulty": {
       "Easy": 221,
-      "Medium": 294,
+      "Medium": 295,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 587,
+      "LeetCode": 588,
       "GFG": 22
     },
     "languages": {
-      "Java": 551,
+      "Java": 552,
       "SQL": 36,
       "Python": 4
     }
@@ -6675,6 +6675,20 @@
         "3014-minimum-number-of-pushes-to-type-word-i.java"
       ],
       "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/description/?envType=daily-question&envId=2026-07-30"
+    },
+    {
+      "number": 3016,
+      "title": "Minimum Number of Pushes to Type Word II",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "solutionFiles": [
+        "3016-minimum-number-of-pushes-to-type-word-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii"
     },
     {
       "number": 3043,
