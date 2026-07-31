@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-31T03:31:20.694Z",
+  "lastUpdated": "2026-07-31T17:53:03.241Z",
   "stats": {
-    "total": 610,
+    "total": 611,
     "difficulty": {
-      "Easy": 221,
+      "Easy": 222,
       "Medium": 295,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 588,
+      "LeetCode": 589,
       "GFG": 22
     },
     "languages": {
       "Java": 552,
-      "SQL": 36,
+      "SQL": 37,
       "Python": 4
     }
   },
@@ -5961,6 +5961,20 @@
         "2352-equal-row-and-column-pairs.java"
       ],
       "url": "https://leetcode.com/problems/equal-row-and-column-pairs/?envType=study-plan-v2&envId=leetcode-75"
+    },
+    {
+      "number": 2356,
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "solutionFiles": [
+        "2356-number-of-unique-subjects-taught-by-each-teacher.sql"
+      ],
+      "url": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher"
     },
     {
       "number": 2385,
