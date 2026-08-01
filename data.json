@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-31T17:53:03.241Z",
+  "lastUpdated": "2026-08-01T05:24:58.762Z",
   "stats": {
-    "total": 611,
+    "total": 612,
     "difficulty": {
       "Easy": 222,
-      "Medium": 295,
+      "Medium": 296,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 589,
+      "LeetCode": 590,
       "GFG": 22
     },
     "languages": {
-      "Java": 552,
+      "Java": 553,
       "SQL": 37,
       "Python": 4
     }
@@ -2761,6 +2761,20 @@
         "0474-ones-and-zeroes.java"
       ],
       "url": "https://leetcode.com/problems/ones-and-zeroes"
+    },
+    {
+      "number": 486,
+      "title": "Predict the Winner",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0486-predict-the-winner",
+      "solutionFiles": [
+        "0486-predict-the-winner.java"
+      ],
+      "url": "https://leetcode.com/problems/predict-the-winner"
     },
     {
       "number": 493,
