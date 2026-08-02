@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-02T14:27:54.854Z",
+  "lastUpdated": "2026-08-02T14:47:03.485Z",
   "stats": {
-    "total": 612,
+    "total": 613,
     "difficulty": {
-      "Easy": 222,
+      "Easy": 223,
       "Medium": 296,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 590,
+      "LeetCode": 591,
       "GFG": 22
     },
     "languages": {
       "Java": 553,
-      "SQL": 37,
+      "SQL": 38,
       "Python": 4
     }
   },
@@ -4433,6 +4433,20 @@
         "1323-maximum-69-number.java"
       ],
       "url": "https://leetcode.com/problems/maximum-69-number"
+    },
+    {
+      "number": 1327,
+      "title": "List the Products Ordered in a Period",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1327-list-the-products-ordered-in-a-period",
+      "solutionFiles": [
+        "1327-list-the-products-ordered-in-a-period.sql"
+      ],
+      "url": "https://leetcode.com/problems/list-the-products-ordered-in-a-period"
     },
     {
       "number": 1331,
