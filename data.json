@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T05:24:58.762Z",
+  "lastUpdated": "2026-08-02T06:30:04.293Z",
   "stats": {
     "total": 612,
     "difficulty": {
@@ -3662,7 +3662,7 @@
       "solutionFiles": [
         "0877-stone-game.java"
       ],
-      "url": "https://leetcode.com/problems/stone-game/"
+      "url": "https://leetcode.com/problems/stone-game"
     },
     {
       "number": 879,
