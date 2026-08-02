@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-02T14:47:03.485Z",
+  "lastUpdated": "2026-08-02T14:59:32.099Z",
   "stats": {
-    "total": 613,
+    "total": 614,
     "difficulty": {
-      "Easy": 223,
+      "Easy": 224,
       "Medium": 296,
       "Hard": 94
     },
     "platform": {
-      "LeetCode": 591,
+      "LeetCode": 592,
       "GFG": 22
     },
     "languages": {
       "Java": 553,
-      "SQL": 38,
+      "SQL": 39,
       "Python": 4
     }
   },
@@ -4293,6 +4293,20 @@
         "1278-palindrome-partitioning-iii.java"
       ],
       "url": "https://leetcode.com/problems/palindrome-partitioning-iii"
+    },
+    {
+      "number": 1280,
+      "title": "Students and Examinations",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1280-students-and-examinations",
+      "solutionFiles": [
+        "1280-students-and-examinations.sql"
+      ],
+      "url": "https://leetcode.com/problems/students-and-examinations"
     },
     {
       "number": 1288,
