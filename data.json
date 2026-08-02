@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T06:30:04.293Z",
+  "lastUpdated": "2026-08-02T14:27:54.854Z",
   "stats": {
     "total": 612,
     "difficulty": {
@@ -1616,7 +1616,7 @@
       "solutionFiles": [
         "0181-employees-earning-more-than-their-managers.sql"
       ],
-      "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers/"
+      "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers"
     },
     {
       "number": 182,
