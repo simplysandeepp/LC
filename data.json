@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T06:00:38.204Z",
+  "lastUpdated": "2026-08-03T18:18:13.392Z",
   "stats": {
-    "total": 621,
+    "total": 622,
     "difficulty": {
-      "Easy": 228,
+      "Easy": 229,
       "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 599,
+      "LeetCode": 600,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 45,
+      "SQL": 46,
       "Python": 4
     }
   },
@@ -3139,6 +3139,20 @@
         "0610-triangle-judgement.sql"
       ],
       "url": "https://leetcode.com/problems/triangle-judgement"
+    },
+    {
+      "number": 620,
+      "title": "Not Boring Movies",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0620-not-boring-movies",
+      "solutionFiles": [
+        "0620-not-boring-movies.sql"
+      ],
+      "url": "https://leetcode.com/problems/not-boring-movies"
     },
     {
       "number": 626,
