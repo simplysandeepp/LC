@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T05:44:20.919Z",
+  "lastUpdated": "2026-08-03T06:00:38.204Z",
   "stats": {
-    "total": 620,
+    "total": 621,
     "difficulty": {
-      "Easy": 227,
+      "Easy": 228,
       "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 598,
+      "LeetCode": 599,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 44,
+      "SQL": 45,
       "Python": 4
     }
   },
@@ -5611,6 +5611,20 @@
         "1976-number-of-ways-to-arrive-at-destination.java"
       ],
       "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/"
+    },
+    {
+      "number": 1978,
+      "title": "Employees Whose Manager Left the Company",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1978-employees-whose-manager-left-the-company",
+      "solutionFiles": [
+        "1978-employees-whose-manager-left-the-company.sql"
+      ],
+      "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company"
     },
     {
       "number": 1979,
