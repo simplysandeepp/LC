@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T04:12:17.142Z",
+  "lastUpdated": "2026-08-03T04:13:53.659Z",
   "stats": {
-    "total": 615,
+    "total": 616,
     "difficulty": {
-      "Easy": 224,
+      "Easy": 225,
       "Medium": 296,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 593,
+      "LeetCode": 594,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 39,
+      "SQL": 40,
       "Python": 4
     }
   },
@@ -5119,6 +5119,20 @@
         "1664-ways-to-make-a-fair-array.java"
       ],
       "url": "https://leetcode.com/problems/ways-to-make-a-fair-array"
+    },
+    {
+      "number": 1667,
+      "title": "Fix Names in a Table",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1667-fix-names-in-a-table",
+      "solutionFiles": [
+        "1667-fix-names-in-a-table.sql"
+      ],
+      "url": "https://leetcode.com/problems/fix-names-in-a-table"
     },
     {
       "number": 1669,
