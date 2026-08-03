@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T19:34:19.914Z",
+  "lastUpdated": "2026-08-03T19:42:36.104Z",
   "stats": {
-    "total": 625,
+    "total": 626,
     "difficulty": {
-      "Easy": 232,
+      "Easy": 233,
       "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 603,
+      "LeetCode": 604,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 49,
+      "SQL": 50,
       "Python": 4
     }
   },
@@ -5189,6 +5189,20 @@
         "1625-lexicographically-smallest-string-after-applying-operations.java"
       ],
       "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations"
+    },
+    {
+      "number": 1633,
+      "title": "Percentage of Users Attended a Contest",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1633-percentage-of-users-attended-a-contest",
+      "solutionFiles": [
+        "1633-percentage-of-users-attended-a-contest.sql"
+      ],
+      "url": "https://leetcode.com/problems/percentage-of-users-attended-a-contest"
     },
     {
       "number": 1657,
