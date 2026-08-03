@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1527-patients-with-a-condition](https://github.com/simplysandeepp/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/simplysandeepp/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/simplysandeepp/DSA/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/simplysandeepp/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
