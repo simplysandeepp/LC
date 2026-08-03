@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T19:06:32.373Z",
+  "lastUpdated": "2026-08-03T19:34:19.914Z",
   "stats": {
-    "total": 624,
+    "total": 625,
     "difficulty": {
-      "Easy": 231,
+      "Easy": 232,
       "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 602,
+      "LeetCode": 603,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 48,
+      "SQL": 49,
       "Python": 4
     }
   },
@@ -4041,6 +4041,20 @@
         "1071-greatest-common-divisor-of-strings.java"
       ],
       "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings"
+    },
+    {
+      "number": 1075,
+      "title": "Project Employees I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1075-project-employees-i",
+      "solutionFiles": [
+        "1075-project-employees-i.sql"
+      ],
+      "url": "https://leetcode.com/problems/project-employees-i"
     },
     {
       "number": 1081,
