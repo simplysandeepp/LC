@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T18:19:00.081Z",
+  "lastUpdated": "2026-08-03T19:06:32.373Z",
   "stats": {
-    "total": 623,
+    "total": 624,
     "difficulty": {
-      "Easy": 230,
+      "Easy": 231,
       "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 601,
+      "LeetCode": 602,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 47,
+      "SQL": 48,
       "Python": 4
     }
   },
@@ -4293,6 +4293,20 @@
         "1211-queries-quality-and-percentage.sql"
       ],
       "url": "https://leetcode.com/problems/queries-quality-and-percentage"
+    },
+    {
+      "number": 1251,
+      "title": "Average Selling Price",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1251-average-selling-price",
+      "solutionFiles": [
+        "1251-average-selling-price.sql"
+      ],
+      "url": "https://leetcode.com/problems/average-selling-price"
     },
     {
       "number": 1254,
