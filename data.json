@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T04:25:18.046Z",
+  "lastUpdated": "2026-08-03T04:26:15.565Z",
   "stats": {
-    "total": 617,
+    "total": 618,
     "difficulty": {
-      "Easy": 226,
+      "Easy": 227,
       "Medium": 296,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 595,
+      "LeetCode": 596,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 41,
+      "SQL": 42,
       "Python": 4
     }
   },
@@ -5007,6 +5007,20 @@
         "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.java"
       ],
       "url": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+    },
+    {
+      "number": 1527,
+      "title": "Patients With a Condition",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1527-patients-with-a-condition",
+      "solutionFiles": [
+        "1527-patients-with-a-condition.sql"
+      ],
+      "url": "https://leetcode.com/problems/patients-with-a-condition"
     },
     {
       "number": 1547,
