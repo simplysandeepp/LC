@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/simplysandeepp/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/simplysandeepp/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/simplysandeepp/DSA/tree/main/0626-exchange-seats/) | Medium |
+| [1075-project-employees-i](https://github.com/simplysandeepp/DSA/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1158-market-analysis-i/) | Medium |
