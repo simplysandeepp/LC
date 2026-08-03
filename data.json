@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-02T14:59:32.099Z",
+  "lastUpdated": "2026-08-03T04:12:17.142Z",
   "stats": {
-    "total": 614,
+    "total": 615,
     "difficulty": {
       "Easy": 224,
       "Medium": 296,
-      "Hard": 94
+      "Hard": 95
     },
     "platform": {
-      "LeetCode": 592,
+      "LeetCode": 593,
       "GFG": 22
     },
     "languages": {
-      "Java": 553,
+      "Java": 554,
       "SQL": 39,
       "Python": 4
     }
@@ -4657,6 +4657,20 @@
         "1395-count-number-of-teams.java"
       ],
       "url": "https://leetcode.com/problems/count-number-of-teams/?envType=problem-list-v2&envId=array&"
+    },
+    {
+      "number": 1406,
+      "title": "Stone Game III",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1406-stone-game-iii",
+      "solutionFiles": [
+        "1406-stone-game-iii.java"
+      ],
+      "url": "https://leetcode.com/problems/stone-game-iii"
     },
     {
       "number": 1411,
