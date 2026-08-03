@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T04:42:42.170Z",
+  "lastUpdated": "2026-08-03T05:44:20.919Z",
   "stats": {
-    "total": 619,
+    "total": 620,
     "difficulty": {
       "Easy": 227,
-      "Medium": 297,
+      "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 597,
+      "LeetCode": 598,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 43,
+      "SQL": 44,
       "Python": 4
     }
   },
@@ -2985,6 +2985,20 @@
         "0583-delete-operation-for-two-strings.java"
       ],
       "url": "https://leetcode.com/problems/delete-operation-for-two-strings"
+    },
+    {
+      "number": 585,
+      "title": "Investments in 2016",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0585-investments-in-2016",
+      "solutionFiles": [
+        "0585-investments-in-2016.sql"
+      ],
+      "url": "https://leetcode.com/problems/investments-in-2016"
     },
     {
       "number": 586,
