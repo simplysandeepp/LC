@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T18:18:13.392Z",
+  "lastUpdated": "2026-08-03T18:19:00.081Z",
   "stats": {
-    "total": 622,
+    "total": 623,
     "difficulty": {
-      "Easy": 229,
+      "Easy": 230,
       "Medium": 298,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 600,
+      "LeetCode": 601,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 46,
+      "SQL": 47,
       "Python": 4
     }
   },
@@ -4279,6 +4279,20 @@
         "1207-unique-number-of-occurrences.java"
       ],
       "url": "https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75"
+    },
+    {
+      "number": 1211,
+      "title": "Queries Quality and Percentage",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1211-queries-quality-and-percentage",
+      "solutionFiles": [
+        "1211-queries-quality-and-percentage.sql"
+      ],
+      "url": "https://leetcode.com/problems/queries-quality-and-percentage"
     },
     {
       "number": 1254,
