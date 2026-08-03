@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1174-immediate-food-delivery-ii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/simplysandeepp/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/simplysandeepp/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/simplysandeepp/DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/simplysandeepp/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
