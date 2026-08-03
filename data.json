@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T04:26:15.565Z",
+  "lastUpdated": "2026-08-03T04:42:42.170Z",
   "stats": {
-    "total": 618,
+    "total": 619,
     "difficulty": {
       "Easy": 227,
-      "Medium": 296,
+      "Medium": 297,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 596,
+      "LeetCode": 597,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 42,
+      "SQL": 43,
       "Python": 4
     }
   },
@@ -3125,6 +3125,20 @@
         "0610-triangle-judgement.sql"
       ],
       "url": "https://leetcode.com/problems/triangle-judgement"
+    },
+    {
+      "number": 626,
+      "title": "Exchange Seats",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0626-exchange-seats",
+      "solutionFiles": [
+        "0626-exchange-seats.sql"
+      ],
+      "url": "https://leetcode.com/problems/exchange-seats"
     },
     {
       "number": 628,
