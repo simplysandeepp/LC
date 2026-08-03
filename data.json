@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T04:13:53.659Z",
+  "lastUpdated": "2026-08-03T04:25:18.046Z",
   "stats": {
-    "total": 616,
+    "total": 617,
     "difficulty": {
-      "Easy": 225,
+      "Easy": 226,
       "Medium": 296,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 594,
+      "LeetCode": 595,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 40,
+      "SQL": 41,
       "Python": 4
     }
   },
@@ -4951,6 +4951,20 @@
         "1513-number-of-substrings-with-only-1s.java"
       ],
       "url": "https://leetcode.com/problems/number-of-substrings-with-only-1s/?envType=daily-question&envId=2025-11-16"
+    },
+    {
+      "number": 1517,
+      "title": "Find Users With Valid E-Mails",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1517-find-users-with-valid-e-mails",
+      "solutionFiles": [
+        "1517-find-users-with-valid-e-mails.sql"
+      ],
+      "url": "https://leetcode.com/problems/find-users-with-valid-e-mails"
     },
     {
       "number": 1518,
