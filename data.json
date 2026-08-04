@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T16:19:57.436Z",
+  "lastUpdated": "2026-08-04T16:52:56.958Z",
   "stats": {
-    "total": 629,
+    "total": 630,
     "difficulty": {
-      "Easy": 234,
+      "Easy": 235,
       "Medium": 300,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 607,
+      "LeetCode": 608,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 53,
+      "SQL": 54,
       "Python": 4
     }
   },
@@ -5469,6 +5469,20 @@
         "1784-check-if-binary-string-has-at-most-one-segment-of-ones.java"
       ],
       "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones"
+    },
+    {
+      "number": 1789,
+      "title": "Primary Department for Each Employee",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1789-primary-department-for-each-employee",
+      "solutionFiles": [
+        "1789-primary-department-for-each-employee.sql"
+      ],
+      "url": "https://leetcode.com/problems/primary-department-for-each-employee"
     },
     {
       "number": 1791,
