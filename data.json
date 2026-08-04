@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T16:52:56.958Z",
+  "lastUpdated": "2026-08-04T17:47:34.406Z",
   "stats": {
-    "total": 630,
+    "total": 631,
     "difficulty": {
       "Easy": 235,
-      "Medium": 300,
+      "Medium": 301,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 608,
+      "LeetCode": 609,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 54,
+      "SQL": 55,
       "Python": 4
     }
   },
@@ -5623,6 +5623,20 @@
         "1888-minimum-number-of-flips-to-make-the-binary-string-alternating.java"
       ],
       "url": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating"
+    },
+    {
+      "number": 1907,
+      "title": "Count Salary Categories",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1907-count-salary-categories",
+      "solutionFiles": [
+        "1907-count-salary-categories.sql"
+      ],
+      "url": "https://leetcode.com/problems/count-salary-categories"
     },
     {
       "number": 1920,
