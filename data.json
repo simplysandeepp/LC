@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T16:07:19.545Z",
+  "lastUpdated": "2026-08-04T16:19:57.436Z",
   "stats": {
-    "total": 628,
+    "total": 629,
     "difficulty": {
-      "Easy": 233,
+      "Easy": 234,
       "Medium": 300,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 606,
+      "LeetCode": 607,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 52,
+      "SQL": 53,
       "Python": 4
     }
   },
@@ -5385,6 +5385,20 @@
         "1722-minimize-hamming-distance-after-swap-operations.java"
       ],
       "url": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations"
+    },
+    {
+      "number": 1731,
+      "title": "The Number of Employees Which Report to Each Employee",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1731-the-number-of-employees-which-report-to-each-employee",
+      "solutionFiles": [
+        "1731-the-number-of-employees-which-report-to-each-employee.sql"
+      ],
+      "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee"
     },
     {
       "number": 1732,
