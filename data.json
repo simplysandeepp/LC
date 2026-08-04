@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T14:26:52.914Z",
+  "lastUpdated": "2026-08-04T16:07:19.545Z",
   "stats": {
-    "total": 627,
+    "total": 628,
     "difficulty": {
       "Easy": 233,
-      "Medium": 299,
+      "Medium": 300,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 605,
+      "LeetCode": 606,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 51,
+      "SQL": 52,
       "Python": 4
     }
   },
@@ -4293,6 +4293,20 @@
         "1200-minimum-absolute-difference.java"
       ],
       "url": "https://leetcode.com/problems/minimum-absolute-difference/?envType=daily-question&envId=2026-01-26"
+    },
+    {
+      "number": 1204,
+      "title": "Last Person to Fit in the Bus",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1204-last-person-to-fit-in-the-bus",
+      "solutionFiles": [
+        "1204-last-person-to-fit-in-the-bus.sql"
+      ],
+      "url": "https://leetcode.com/problems/last-person-to-fit-in-the-bus"
     },
     {
       "number": 1207,
