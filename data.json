@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T03:07:20.667Z",
+  "lastUpdated": "2026-08-04T14:26:52.914Z",
   "stats": {
-    "total": 626,
+    "total": 627,
     "difficulty": {
       "Easy": 233,
-      "Medium": 298,
+      "Medium": 299,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 604,
+      "LeetCode": 605,
       "GFG": 22
     },
     "languages": {
       "Java": 554,
-      "SQL": 50,
+      "SQL": 51,
       "Python": 4
     }
   },
@@ -4223,6 +4223,20 @@
         "1161-maximum-level-sum-of-a-binary-tree.java"
       ],
       "url": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree"
+    },
+    {
+      "number": 1164,
+      "title": "Product Price at a Given Date",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1164-product-price-at-a-given-date",
+      "solutionFiles": [
+        "1164-product-price-at-a-given-date.sql"
+      ],
+      "url": "https://leetcode.com/problems/product-price-at-a-given-date"
     },
     {
       "number": 1174,
