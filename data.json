@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-05T11:15:40.144Z",
+  "lastUpdated": "2026-08-05T15:47:27.961Z",
   "stats": {
-    "total": 632,
+    "total": 633,
     "difficulty": {
-      "Easy": 235,
+      "Easy": 236,
       "Medium": 302,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 610,
+      "LeetCode": 611,
       "GFG": 22
     },
     "languages": {
       "Java": 555,
-      "SQL": 55,
+      "SQL": 56,
       "Python": 4
     }
   },
@@ -2985,6 +2985,20 @@
         "0583-delete-operation-for-two-strings.java"
       ],
       "url": "https://leetcode.com/problems/delete-operation-for-two-strings"
+    },
+    {
+      "number": 584,
+      "title": "Find Customer Referee",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "0584-find-customer-referee",
+      "solutionFiles": [
+        "0584-find-customer-referee.sql"
+      ],
+      "url": "https://leetcode.com/problems/find-customer-referee"
     },
     {
       "number": 585,
