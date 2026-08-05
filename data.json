@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-05T16:08:13.212Z",
+  "lastUpdated": "2026-08-05T16:29:47.247Z",
   "stats": {
-    "total": 634,
+    "total": 635,
     "difficulty": {
-      "Easy": 237,
+      "Easy": 238,
       "Medium": 302,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 612,
+      "LeetCode": 613,
       "GFG": 22
     },
     "languages": {
       "Java": 555,
-      "SQL": 57,
+      "SQL": 58,
       "Python": 4
     }
   },
@@ -4727,6 +4727,20 @@
         "1372-longest-zigzag-path-in-a-binary-tree.java"
       ],
       "url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree"
+    },
+    {
+      "number": 1378,
+      "title": "Replace Employee ID With The Unique Identifier",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1378-replace-employee-id-with-the-unique-identifier",
+      "solutionFiles": [
+        "1378-replace-employee-id-with-the-unique-identifier.sql"
+      ],
+      "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
     },
     {
       "number": 1390,
