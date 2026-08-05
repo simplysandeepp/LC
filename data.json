@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-05T15:47:27.961Z",
+  "lastUpdated": "2026-08-05T16:08:13.212Z",
   "stats": {
-    "total": 633,
+    "total": 634,
     "difficulty": {
-      "Easy": 236,
+      "Easy": 237,
       "Medium": 302,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 611,
+      "LeetCode": 612,
       "GFG": 22
     },
     "languages": {
       "Java": 555,
-      "SQL": 56,
+      "SQL": 57,
       "Python": 4
     }
   },
@@ -5189,6 +5189,20 @@
         "1578-minimum-time-to-make-rope-colorful.java"
       ],
       "url": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful"
+    },
+    {
+      "number": 1581,
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1581-customer-who-visited-but-did-not-make-any-transactions",
+      "solutionFiles": [
+        "1581-customer-who-visited-but-did-not-make-any-transactions.sql"
+      ],
+      "url": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions"
     },
     {
       "number": 1587,
