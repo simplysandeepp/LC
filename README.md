@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/simplysandeepp/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1341-movie-rating/) | Medium |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/simplysandeepp/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/simplysandeepp/DSA/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/simplysandeepp/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
