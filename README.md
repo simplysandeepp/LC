@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/simplysandeepp/DSA/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/simplysandeepp/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/simplysandeepp/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0584-find-customer-referee](https://github.com/simplysandeepp/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/simplysandeepp/DSA/tree/main/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/simplysandeepp/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/simplysandeepp/DSA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
