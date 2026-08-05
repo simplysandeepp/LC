@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-04T17:47:34.406Z",
+  "lastUpdated": "2026-08-05T11:15:40.144Z",
   "stats": {
-    "total": 631,
+    "total": 632,
     "difficulty": {
       "Easy": 235,
-      "Medium": 301,
+      "Medium": 302,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 609,
+      "LeetCode": 610,
       "GFG": 22
     },
     "languages": {
-      "Java": 554,
+      "Java": 555,
       "SQL": 55,
       "Python": 4
     }
@@ -7287,6 +7287,20 @@
         "3300-minimum-element-after-replacement-with-digit-sum.java"
       ],
       "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum"
+    },
+    {
+      "number": 3310,
+      "title": "Remove Methods From Project",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3310-remove-methods-from-project",
+      "solutionFiles": [
+        "3310-remove-methods-from-project.java"
+      ],
+      "url": "https://leetcode.com/problems/remove-methods-from-project"
     },
     {
       "number": 3312,
