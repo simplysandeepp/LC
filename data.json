@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-05T16:36:28.785Z",
+  "lastUpdated": "2026-08-06T02:46:07.785Z",
   "stats": {
-    "total": 636,
+    "total": 637,
     "difficulty": {
-      "Easy": 239,
+      "Easy": 240,
       "Medium": 302,
       "Hard": 95
     },
     "platform": {
-      "LeetCode": 614,
+      "LeetCode": 615,
       "GFG": 22
     },
     "languages": {
       "Java": 555,
-      "SQL": 59,
+      "SQL": 60,
       "Python": 4
     }
   },
@@ -5483,6 +5483,20 @@
         "1752-check-if-array-is-sorted-and-rotated.java"
       ],
       "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23"
+    },
+    {
+      "number": 1757,
+      "title": "Recyclable and Low Fat Products",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1757-recyclable-and-low-fat-products",
+      "solutionFiles": [
+        "1757-recyclable-and-low-fat-products.sql"
+      ],
+      "url": "https://leetcode.com/problems/recyclable-and-low-fat-products"
     },
     {
       "number": 1758,
