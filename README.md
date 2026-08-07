@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/simplysandeepp/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/simplysandeepp/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/simplysandeepp/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/simplysandeepp/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/simplysandeepp/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simplysandeepp/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/simplysandeepp/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simplysandeepp/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/simplysandeepp/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/simplysandeepp/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/simplysandeepp/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/simplysandeepp/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/simplysandeepp/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/simplysandeepp/DSA/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/simplysandeepp/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -793,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/simplysandeepp/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0052-n-queens-ii](https://github.com/simplysandeepp/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/simplysandeepp/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -806,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simplysandeepp/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/simplysandeepp/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/simplysandeepp/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/simplysandeepp/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
