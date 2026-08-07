@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-06T02:46:07.785Z",
+  "lastUpdated": "2026-08-07T14:55:09.222Z",
   "stats": {
-    "total": 637,
+    "total": 639,
     "difficulty": {
-      "Easy": 240,
+      "Easy": 241,
       "Medium": 302,
-      "Hard": 95
+      "Hard": 96
     },
     "platform": {
-      "LeetCode": 615,
+      "LeetCode": 617,
       "GFG": 22
     },
     "languages": {
-      "Java": 555,
+      "Java": 557,
       "SQL": 60,
       "Python": 4
     }
@@ -7439,6 +7439,20 @@
       "url": "https://leetcode.com/problems/check-balanced-string/"
     },
     {
+      "number": 3345,
+      "title": "Smallest Divisible Digit Product I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3345-smallest-divisible-digit-product-i",
+      "solutionFiles": [
+        "3345-smallest-divisible-digit-product-i.java"
+      ],
+      "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i"
+    },
+    {
       "number": 3346,
       "title": "Maximum Frequency of an Element After Performing Operations I",
       "difficulty": "Medium",
@@ -7451,6 +7465,20 @@
         "3346-maximum-frequency-of-an-element-after-performing-operations-i.java"
       ],
       "url": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/?envType=daily-question&envId=2025-10-21"
+    },
+    {
+      "number": 3348,
+      "title": "Smallest Divisible Digit Product II",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3348-smallest-divisible-digit-product-ii",
+      "solutionFiles": [
+        "3348-smallest-divisible-digit-product-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-07"
     },
     {
       "number": 3354,
