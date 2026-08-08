@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/simplysandeepp/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/simplysandeepp/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/simplysandeepp/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/simplysandeepp/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/simplysandeepp/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -692,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/simplysandeepp/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/simplysandeepp/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0221-maximal-square](https://github.com/simplysandeepp/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/simplysandeepp/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0695-max-area-of-island](https://github.com/simplysandeepp/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -712,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/simplysandeepp/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1094-car-pooling](https://github.com/simplysandeepp/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/simplysandeepp/DSA/tree/main/1260-shift-2d-grid/) | Easy |
