@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-07T14:55:09.222Z",
+  "lastUpdated": "2026-08-08T03:02:25.722Z",
   "stats": {
-    "total": 639,
+    "total": 640,
     "difficulty": {
       "Easy": 241,
-      "Medium": 302,
+      "Medium": 303,
       "Hard": 96
     },
     "platform": {
-      "LeetCode": 617,
+      "LeetCode": 618,
       "GFG": 22
     },
     "languages": {
-      "Java": 557,
+      "Java": 558,
       "SQL": 60,
       "Python": 4
     }
@@ -7357,6 +7357,20 @@
         "3300-minimum-element-after-replacement-with-digit-sum.java"
       ],
       "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum"
+    },
+    {
+      "number": 3302,
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "solutionFiles": [
+        "3302-find-the-lexicographically-smallest-valid-sequence.java"
+      ],
+      "url": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence"
     },
     {
       "number": 3310,
