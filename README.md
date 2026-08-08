@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/simplysandeepp/DSA/tree/main/0322-coin-change/) | Medium |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
+| [0336-palindrome-pairs](https://github.com/simplysandeepp/DSA/tree/main/0336-palindrome-pairs/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/simplysandeepp/DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/simplysandeepp/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/simplysandeepp/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/simplysandeepp/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/simplysandeepp/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/simplysandeepp/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0336-palindrome-pairs](https://github.com/simplysandeepp/DSA/tree/main/0336-palindrome-pairs/) | Hard |
 | [0583-delete-operation-for-two-strings](https://github.com/simplysandeepp/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/simplysandeepp/DSA/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/simplysandeepp/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/simplysandeepp/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0336-palindrome-pairs](https://github.com/simplysandeepp/DSA/tree/main/0336-palindrome-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
@@ -686,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/simplysandeepp/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0336-palindrome-pairs](https://github.com/simplysandeepp/DSA/tree/main/0336-palindrome-pairs/) | Hard |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/simplysandeepp/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/simplysandeepp/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -871,4 +875,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/simplysandeepp/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/simplysandeepp/DSA/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/simplysandeepp/DSA/tree/main/1406-stone-game-iii/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/simplysandeepp/DSA/tree/main/0336-palindrome-pairs/) | Hard |
 <!---LeetCode Topics End-->
