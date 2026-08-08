@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-08T10:34:19.958Z",
+  "lastUpdated": "2026-08-08T11:28:28.595Z",
   "stats": {
-    "total": 640,
+    "total": 641,
     "difficulty": {
       "Easy": 241,
       "Medium": 303,
-      "Hard": 96
+      "Hard": 97
     },
     "platform": {
-      "LeetCode": 618,
+      "LeetCode": 619,
       "GFG": 22
     },
     "languages": {
-      "Java": 558,
+      "Java": 559,
       "SQL": 60,
       "Python": 4
     }
@@ -2299,6 +2299,20 @@
         "0334-increasing-triplet-subsequence.java"
       ],
       "url": "https://leetcode.com/problems/increasing-triplet-subsequence/"
+    },
+    {
+      "number": 336,
+      "title": "Palindrome Pairs",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0336-palindrome-pairs",
+      "solutionFiles": [
+        "0336-palindrome-pairs.java"
+      ],
+      "url": "https://leetcode.com/problems/palindrome-pairs"
     },
     {
       "number": 337,
