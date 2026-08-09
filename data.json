@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-09T10:54:11.765Z",
+  "lastUpdated": "2026-08-09T11:55:03.175Z",
   "stats": {
-    "total": 642,
+    "total": 643,
     "difficulty": {
       "Easy": 241,
-      "Medium": 304,
+      "Medium": 305,
       "Hard": 97
     },
     "platform": {
-      "LeetCode": 620,
+      "LeetCode": 621,
       "GFG": 22
     },
     "languages": {
-      "Java": 560,
+      "Java": 561,
       "SQL": 60,
       "Python": 4
     }
@@ -4209,6 +4209,20 @@
         "1137-n-th-tribonacci-number.java"
       ],
       "url": "https://leetcode.com/problems/n-th-tribonacci-number"
+    },
+    {
+      "number": 1140,
+      "title": "Stone Game II",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1140-stone-game-ii",
+      "solutionFiles": [
+        "1140-stone-game-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/stone-game-ii"
     },
     {
       "number": 1141,
