@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-08T11:28:28.595Z",
+  "lastUpdated": "2026-08-09T10:54:11.765Z",
   "stats": {
-    "total": 641,
+    "total": 642,
     "difficulty": {
       "Easy": 241,
-      "Medium": 303,
+      "Medium": 304,
       "Hard": 97
     },
     "platform": {
-      "LeetCode": 619,
+      "LeetCode": 620,
       "GFG": 22
     },
     "languages": {
-      "Java": 559,
+      "Java": 560,
       "SQL": 60,
       "Python": 4
     }
@@ -3747,6 +3747,20 @@
         "0879-profitable-schemes.java"
       ],
       "url": "https://leetcode.com/problems/profitable-schemes"
+    },
+    {
+      "number": 885,
+      "title": "Spiral Matrix III",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0885-spiral-matrix-iii",
+      "solutionFiles": [
+        "0885-spiral-matrix-iii.java"
+      ],
+      "url": "https://leetcode.com/problems/spiral-matrix-iii"
     },
     {
       "number": 901,
