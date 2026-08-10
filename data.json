@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-09T11:55:03.175Z",
+  "lastUpdated": "2026-08-10T00:21:10.189Z",
   "stats": {
-    "total": 643,
+    "total": 644,
     "difficulty": {
       "Easy": 241,
       "Medium": 305,
-      "Hard": 97
+      "Hard": 98
     },
     "platform": {
-      "LeetCode": 621,
+      "LeetCode": 622,
       "GFG": 22
     },
     "languages": {
-      "Java": 561,
+      "Java": 562,
       "SQL": 60,
       "Python": 4
     }
@@ -5119,6 +5119,20 @@
         "1502-can-make-arithmetic-progression-from-sequence.java"
       ],
       "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence"
+    },
+    {
+      "number": 1510,
+      "title": "Stone Game IV",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1510-stone-game-iv",
+      "solutionFiles": [
+        "1510-stone-game-iv.java"
+      ],
+      "url": "https://leetcode.com/problems/stone-game-iv"
     },
     {
       "number": 1512,
