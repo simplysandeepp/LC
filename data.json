@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-10T00:21:10.189Z",
+  "lastUpdated": "2026-08-11T18:07:27.321Z",
   "stats": {
-    "total": 644,
+    "total": 645,
     "difficulty": {
-      "Easy": 241,
+      "Easy": 242,
       "Medium": 305,
       "Hard": 98
     },
     "platform": {
-      "LeetCode": 622,
+      "LeetCode": 623,
       "GFG": 22
     },
     "languages": {
-      "Java": 562,
+      "Java": 563,
       "SQL": 60,
       "Python": 4
     }
@@ -7067,6 +7067,20 @@
         "2946-matrix-similarity-after-cyclic-shifts.java"
       ],
       "url": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts"
+    },
+    {
+      "number": 2996,
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "solutionFiles": [
+        "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java"
+      ],
+      "url": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum"
     },
     {
       "number": 3003,
