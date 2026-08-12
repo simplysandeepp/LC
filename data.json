@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-11T18:07:27.321Z",
+  "lastUpdated": "2026-08-12T03:01:43.140Z",
   "stats": {
-    "total": 645,
+    "total": 646,
     "difficulty": {
       "Easy": 242,
-      "Medium": 305,
+      "Medium": 306,
       "Hard": 98
     },
     "platform": {
-      "LeetCode": 623,
+      "LeetCode": 624,
       "GFG": 22
     },
     "languages": {
-      "Java": 563,
+      "Java": 564,
       "SQL": 60,
       "Python": 4
     }
@@ -7067,6 +7067,20 @@
         "2946-matrix-similarity-after-cyclic-shifts.java"
       ],
       "url": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts"
+    },
+    {
+      "number": 2958,
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "solutionFiles": [
+        "2958-length-of-longest-subarray-with-at-most-k-frequency.java"
+      ],
+      "url": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency"
     },
     {
       "number": 2996,
