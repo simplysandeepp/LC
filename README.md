@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simplysandeepp/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/simplysandeepp/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/simplysandeepp/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/simplysandeepp/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/simplysandeepp/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/simplysandeepp/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/simplysandeepp/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/simplysandeepp/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/simplysandeepp/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/simplysandeepp/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/simplysandeepp/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/simplysandeepp/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/simplysandeepp/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2276-count-integers-in-intervals](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/2276-count-integers-in-intervals/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/simplysandeepp/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/simplysandeepp/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2276-count-integers-in-intervals](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/2276-count-integers-in-intervals/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/simplysandeepp/DSA/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
