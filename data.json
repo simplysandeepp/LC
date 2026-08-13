@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-12T03:01:43.140Z",
+  "lastUpdated": "2026-08-13T06:43:45.287Z",
   "stats": {
-    "total": 646,
+    "total": 647,
     "difficulty": {
       "Easy": 242,
       "Medium": 306,
-      "Hard": 98
+      "Hard": 99
     },
     "platform": {
-      "LeetCode": 624,
+      "LeetCode": 625,
       "GFG": 22
     },
     "languages": {
-      "Java": 564,
+      "Java": 565,
       "SQL": 60,
       "Python": 4
     }
@@ -6213,6 +6213,20 @@
         "2210-count-hills-and-valleys-in-an-array.java"
       ],
       "url": "https://leetcode.com/problems/count-hills-and-valleys-in-an-array"
+    },
+    {
+      "number": 2213,
+      "title": "Longest Substring of One Repeating Character",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2213-longest-substring-of-one-repeating-character",
+      "solutionFiles": [
+        "2213-longest-substring-of-one-repeating-character.java"
+      ],
+      "url": "https://leetcode.com/problems/longest-substring-of-one-repeating-character"
     },
     {
       "number": 2215,
