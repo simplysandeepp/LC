@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-13T06:43:45.287Z",
+  "lastUpdated": "2026-08-14T03:02:08.277Z",
   "stats": {
-    "total": 647,
+    "total": 648,
     "difficulty": {
-      "Easy": 242,
+      "Easy": 243,
       "Medium": 306,
       "Hard": 99
     },
     "platform": {
-      "LeetCode": 625,
+      "LeetCode": 626,
       "GFG": 22
     },
     "languages": {
-      "Java": 565,
+      "Java": 566,
       "SQL": 60,
       "Python": 4
     }
@@ -7175,6 +7175,20 @@
         "3065-minimum-operations-to-exceed-threshold-value-i.java"
       ],
       "url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i"
+    },
+    {
+      "number": 3090,
+      "title": "Maximum Length Substring With Two Occurrences",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3090-maximum-length-substring-with-two-occurrences",
+      "solutionFiles": [
+        "3090-maximum-length-substring-with-two-occurrences.java"
+      ],
+      "url": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences"
     },
     {
       "number": 3093,
