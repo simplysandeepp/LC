@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-14T03:02:08.277Z",
+  "lastUpdated": "2026-08-15T17:08:46.187Z",
   "stats": {
-    "total": 648,
+    "total": 649,
     "difficulty": {
       "Easy": 243,
-      "Medium": 306,
+      "Medium": 307,
       "Hard": 99
     },
     "platform": {
-      "LeetCode": 626,
+      "LeetCode": 627,
       "GFG": 22
     },
     "languages": {
-      "Java": 566,
+      "Java": 567,
       "SQL": 60,
       "Python": 4
     }
@@ -8151,6 +8151,20 @@
         "3691-maximum-total-subarray-value-ii.java"
       ],
       "url": "https://leetcode.com/problems/maximum-total-subarray-value-ii"
+    },
+    {
+      "number": 3702,
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "solutionFiles": [
+        "3702-longest-subsequence-with-non-zero-bitwise-xor.java"
+      ],
+      "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor"
     },
     {
       "number": 3719,
