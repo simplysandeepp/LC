@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-15T17:08:46.187Z",
+  "lastUpdated": "2026-08-16T15:53:08.141Z",
   "stats": {
-    "total": 649,
+    "total": 650,
     "difficulty": {
       "Easy": 243,
-      "Medium": 307,
+      "Medium": 308,
       "Hard": 99
     },
     "platform": {
-      "LeetCode": 627,
+      "LeetCode": 628,
       "GFG": 22
     },
     "languages": {
-      "Java": 567,
+      "Java": 568,
       "SQL": 60,
       "Python": 4
     }
@@ -5933,6 +5933,20 @@
         "2011-final-value-of-variable-after-performing-operations.java"
       ],
       "url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/?envType=daily-question&envId=2025-10-20"
+    },
+    {
+      "number": 2029,
+      "title": "Stone Game IX",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2029-stone-game-ix",
+      "solutionFiles": [
+        "2029-stone-game-ix.java"
+      ],
+      "url": "https://leetcode.com/problems/stone-game-ix"
     },
     {
       "number": 2033,
