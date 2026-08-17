@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-16T15:53:08.141Z",
+  "lastUpdated": "2026-08-17T17:19:27.988Z",
   "stats": {
-    "total": 650,
+    "total": 651,
     "difficulty": {
       "Easy": 243,
       "Medium": 308,
-      "Hard": 99
+      "Hard": 100
     },
     "platform": {
-      "LeetCode": 628,
+      "LeetCode": 629,
       "GFG": 22
     },
     "languages": {
-      "Java": 568,
+      "Java": 569,
       "SQL": 60,
       "Python": 4
     }
@@ -5259,6 +5259,20 @@
         "1559-detect-cycles-in-2d-grid.java"
       ],
       "url": "https://leetcode.com/problems/detect-cycles-in-2d-grid/solutions/8098071/cycle-detection-dfs-easy-solution-by-la_-b69s/?envType=daily-question&envId=2026-06-12"
+    },
+    {
+      "number": 1563,
+      "title": "Stone Game V",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1563-stone-game-v",
+      "solutionFiles": [
+        "1563-stone-game-v.java"
+      ],
+      "url": "https://leetcode.com/problems/stone-game-v"
     },
     {
       "number": 1578,
