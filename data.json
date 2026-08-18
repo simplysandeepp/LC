@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-17T17:19:27.988Z",
+  "lastUpdated": "2026-08-18T03:23:38.022Z",
   "stats": {
-    "total": 651,
+    "total": 652,
     "difficulty": {
-      "Easy": 243,
+      "Easy": 244,
       "Medium": 308,
       "Hard": 100
     },
     "platform": {
-      "LeetCode": 629,
+      "LeetCode": 630,
       "GFG": 22
     },
     "languages": {
-      "Java": 569,
+      "Java": 570,
       "SQL": 60,
       "Python": 4
     }
@@ -7731,6 +7731,20 @@
         "3464-maximize-the-distance-between-points-on-a-square.java"
       ],
       "url": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/?envType=daily-question&envId=2026-04-25"
+    },
+    {
+      "number": 3471,
+      "title": "Find the Largest Almost Missing Integer",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3471-find-the-largest-almost-missing-integer",
+      "solutionFiles": [
+        "3471-find-the-largest-almost-missing-integer.java"
+      ],
+      "url": "https://leetcode.com/problems/find-the-largest-almost-missing-integer"
     },
     {
       "number": 3488,
