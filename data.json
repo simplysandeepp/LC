@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-18T03:23:38.022Z",
+  "lastUpdated": "2026-08-19T03:38:43.168Z",
   "stats": {
-    "total": 652,
+    "total": 653,
     "difficulty": {
       "Easy": 244,
-      "Medium": 308,
+      "Medium": 309,
       "Hard": 100
     },
     "platform": {
-      "LeetCode": 630,
+      "LeetCode": 631,
       "GFG": 22
     },
     "languages": {
-      "Java": 570,
+      "Java": 571,
       "SQL": 60,
       "Python": 4
     }
@@ -4797,6 +4797,20 @@
         "1378-replace-employee-id-with-the-unique-identifier.sql"
       ],
       "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
+    },
+    {
+      "number": 1386,
+      "title": "Cinema Seat Allocation",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1386-cinema-seat-allocation",
+      "solutionFiles": [
+        "1386-cinema-seat-allocation.java"
+      ],
+      "url": "https://leetcode.com/problems/cinema-seat-allocation"
     },
     {
       "number": 1390,
