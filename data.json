@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T03:38:43.168Z",
+  "lastUpdated": "2026-08-20T11:46:52.482Z",
   "stats": {
-    "total": 653,
+    "total": 654,
     "difficulty": {
-      "Easy": 244,
+      "Easy": 245,
       "Medium": 309,
       "Hard": 100
     },
     "platform": {
-      "LeetCode": 631,
+      "LeetCode": 632,
       "GFG": 22
     },
     "languages": {
-      "Java": 571,
+      "Java": 572,
       "SQL": 60,
       "Python": 4
     }
@@ -7217,6 +7217,20 @@
         "3065-minimum-operations-to-exceed-threshold-value-i.java"
       ],
       "url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i"
+    },
+    {
+      "number": 3069,
+      "title": "Distribute Elements Into Two Arrays I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3069-distribute-elements-into-two-arrays-i",
+      "solutionFiles": [
+        "3069-distribute-elements-into-two-arrays-i.java"
+      ],
+      "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i"
     },
     {
       "number": 3090,
