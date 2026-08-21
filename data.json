@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T11:46:52.482Z",
+  "lastUpdated": "2026-08-21T04:28:11.776Z",
   "stats": {
-    "total": 654,
+    "total": 655,
     "difficulty": {
       "Easy": 245,
       "Medium": 309,
-      "Hard": 100
+      "Hard": 101
     },
     "platform": {
-      "LeetCode": 632,
+      "LeetCode": 633,
       "GFG": 22
     },
     "languages": {
-      "Java": 572,
+      "Java": 573,
       "SQL": 60,
       "Python": 4
     }
@@ -7287,6 +7287,20 @@
         "3110-score-of-a-string.java"
       ],
       "url": "https://leetcode.com/problems/score-of-a-string/"
+    },
+    {
+      "number": 3116,
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "solutionFiles": [
+        "3116-kth-smallest-amount-with-single-denomination-combination.java"
+      ],
+      "url": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination"
     },
     {
       "number": 3120,
