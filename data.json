@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T04:28:11.776Z",
+  "lastUpdated": "2026-08-22T04:41:55.686Z",
   "stats": {
-    "total": 655,
+    "total": 656,
     "difficulty": {
-      "Easy": 245,
+      "Easy": 246,
       "Medium": 309,
       "Hard": 101
     },
     "platform": {
-      "LeetCode": 633,
+      "LeetCode": 634,
       "GFG": 22
     },
     "languages": {
-      "Java": 573,
+      "Java": 574,
       "SQL": 60,
       "Python": 4
     }
@@ -8081,6 +8081,20 @@
         "3620-network-recovery-pathways.java"
       ],
       "url": "https://leetcode.com/problems/network-recovery-pathways"
+    },
+    {
+      "number": 3622,
+      "title": "Check Divisibility by Digit Sum and Product",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3622-check-divisibility-by-digit-sum-and-product",
+      "solutionFiles": [
+        "3622-check-divisibility-by-digit-sum-and-product.java"
+      ],
+      "url": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product"
     },
     {
       "number": 3629,
