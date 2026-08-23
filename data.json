@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-22T04:41:55.686Z",
+  "lastUpdated": "2026-08-23T18:07:39.785Z",
   "stats": {
-    "total": 656,
+    "total": 657,
     "difficulty": {
       "Easy": 246,
-      "Medium": 309,
+      "Medium": 310,
       "Hard": 101
     },
     "platform": {
-      "LeetCode": 634,
+      "LeetCode": 635,
       "GFG": 22
     },
     "languages": {
-      "Java": 574,
+      "Java": 575,
       "SQL": 60,
       "Python": 4
     }
@@ -5821,6 +5821,20 @@
         "1926-nearest-exit-from-entrance-in-maze.java"
       ],
       "url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/?envType=study-plan-v2&envId=leetcode-75"
+    },
+    {
+      "number": 1927,
+      "title": "Sum Game",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1927-sum-game",
+      "solutionFiles": [
+        "1927-sum-game.java"
+      ],
+      "url": "https://leetcode.com/problems/sum-game"
     },
     {
       "number": 1929,
