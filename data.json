@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-23T18:07:39.785Z",
+  "lastUpdated": "2026-08-24T04:08:16.483Z",
   "stats": {
-    "total": 657,
+    "total": 658,
     "difficulty": {
       "Easy": 246,
       "Medium": 310,
-      "Hard": 101
+      "Hard": 102
     },
     "platform": {
-      "LeetCode": 635,
+      "LeetCode": 636,
       "GFG": 22
     },
     "languages": {
-      "Java": 575,
+      "Java": 576,
       "SQL": 60,
       "Python": 4
     }
@@ -5749,6 +5749,20 @@
         "1871-jump-game-vii.java"
       ],
       "url": "https://leetcode.com/problems/jump-game-vii"
+    },
+    {
+      "number": 1872,
+      "title": "Stone Game VIII",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1872-stone-game-viii",
+      "solutionFiles": [
+        "1872-stone-game-viii.java"
+      ],
+      "url": "https://leetcode.com/problems/stone-game-viii"
     },
     {
       "number": 1886,
