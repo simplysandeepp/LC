@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/simplysandeepp/DSA/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1871-jump-game-vii](https://github.com/simplysandeepp/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/simplysandeepp/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/simplysandeepp/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/simplysandeepp/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/simplysandeepp/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/simplysandeepp/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simplysandeepp/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/simplysandeepp/DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/simplysandeepp/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1840-maximum-building-height](https://github.com/simplysandeepp/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/simplysandeepp/DSA/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/simplysandeepp/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/simplysandeepp/DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1664-ways-to-make-a-fair-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/simplysandeepp/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/simplysandeepp/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/simplysandeepp/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/simplysandeepp/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -923,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/simplysandeepp/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/simplysandeepp/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/simplysandeepp/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/simplysandeepp/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Hash Function
@@ -934,12 +939,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/simplysandeepp/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/simplysandeepp/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/simplysandeepp/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/simplysandeepp/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
