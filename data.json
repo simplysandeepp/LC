@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-24T04:08:16.483Z",
+  "lastUpdated": "2026-08-25T02:09:20.415Z",
   "stats": {
-    "total": 658,
+    "total": 659,
     "difficulty": {
-      "Easy": 246,
+      "Easy": 247,
       "Medium": 310,
       "Hard": 102
     },
     "platform": {
-      "LeetCode": 636,
+      "LeetCode": 637,
       "GFG": 22
     },
     "languages": {
-      "Java": 576,
+      "Java": 577,
       "SQL": 60,
       "Python": 4
     }
@@ -8291,6 +8291,20 @@
         "3702-longest-subsequence-with-non-zero-bitwise-xor.java"
       ],
       "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor"
+    },
+    {
+      "number": 3718,
+      "title": "Smallest Missing Multiple of K",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3718-smallest-missing-multiple-of-k",
+      "solutionFiles": [
+        "3718-smallest-missing-multiple-of-k.java"
+      ],
+      "url": "https://leetcode.com/problems/smallest-missing-multiple-of-k"
     },
     {
       "number": 3719,
