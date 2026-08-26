@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-25T14:35:07.098Z",
+  "lastUpdated": "2026-08-26T05:12:49.322Z",
   "stats": {
-    "total": 659,
+    "total": 660,
     "difficulty": {
       "Easy": 247,
-      "Medium": 310,
+      "Medium": 311,
       "Hard": 102
     },
     "platform": {
-      "LeetCode": 637,
+      "LeetCode": 638,
       "GFG": 22
     },
     "languages": {
-      "Java": 577,
+      "Java": 578,
       "SQL": 60,
       "Python": 4
     }
@@ -7095,6 +7095,20 @@
         "2894-divisible-and-non-divisible-sums-difference.java"
       ],
       "url": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference"
+    },
+    {
+      "number": 2904,
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "solutionFiles": [
+        "2904-shortest-and-lexicographically-smallest-beautiful-string.java"
+      ],
+      "url": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
     },
     {
       "number": 2913,
