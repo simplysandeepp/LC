@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-26T05:12:49.322Z",
+  "lastUpdated": "2026-08-27T18:08:41.944Z",
   "stats": {
-    "total": 660,
+    "total": 661,
     "difficulty": {
       "Easy": 247,
-      "Medium": 311,
+      "Medium": 312,
       "Hard": 102
     },
     "platform": {
-      "LeetCode": 638,
+      "LeetCode": 639,
       "GFG": 22
     },
     "languages": {
-      "Java": 578,
+      "Java": 579,
       "SQL": 60,
       "Python": 4
     }
@@ -8333,6 +8333,20 @@
         "3719-longest-balanced-subarray-i.java"
       ],
       "url": "https://leetcode.com/problems/longest-balanced-subarray-i"
+    },
+    {
+      "number": 3720,
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "solutionFiles": [
+        "3720-lexicographically-smallest-permutation-greater-than-target.java"
+      ],
+      "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target"
     },
     {
       "number": 3731,
