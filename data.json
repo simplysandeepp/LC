@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-27T18:08:41.944Z",
+  "lastUpdated": "2026-08-28T06:53:15.496Z",
   "stats": {
-    "total": 661,
+    "total": 662,
     "difficulty": {
       "Easy": 247,
       "Medium": 312,
-      "Hard": 102
+      "Hard": 103
     },
     "platform": {
-      "LeetCode": 639,
+      "LeetCode": 640,
       "GFG": 22
     },
     "languages": {
-      "Java": 579,
+      "Java": 580,
       "SQL": 60,
       "Python": 4
     }
@@ -8361,6 +8361,20 @@
         "3731-find-missing-elements.java"
       ],
       "url": "https://leetcode.com/problems/find-missing-elements"
+    },
+    {
+      "number": 3734,
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "solutionFiles": [
+        "3734-lexicographically-smallest-palindromic-permutation-greater-than-target.java"
+      ],
+      "url": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target"
     },
     {
       "number": 3737,
