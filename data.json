@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-28T06:53:15.496Z",
+  "lastUpdated": "2026-08-29T04:07:05.807Z",
   "stats": {
-    "total": 662,
+    "total": 663,
     "difficulty": {
       "Easy": 247,
-      "Medium": 312,
+      "Medium": 313,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 640,
+      "LeetCode": 641,
       "GFG": 22
     },
     "languages": {
-      "Java": 580,
+      "Java": 581,
       "SQL": 60,
       "Python": 4
     }
@@ -7165,6 +7165,20 @@
         "2946-matrix-similarity-after-cyclic-shifts.java"
       ],
       "url": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts"
+    },
+    {
+      "number": 2948,
+      "title": "Make Lexicographically Smallest Array by Swapping Elements",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2948-make-lexicographically-smallest-array-by-swapping-elements",
+      "solutionFiles": [
+        "2948-make-lexicographically-smallest-array-by-swapping-elements.java"
+      ],
+      "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements"
     },
     {
       "number": 2958,
