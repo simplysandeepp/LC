@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-29T04:07:05.807Z",
+  "lastUpdated": "2026-08-30T04:36:55.316Z",
   "stats": {
-    "total": 663,
+    "total": 665,
     "difficulty": {
       "Easy": 247,
-      "Medium": 313,
+      "Medium": 315,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 641,
+      "LeetCode": 643,
       "GFG": 22
     },
     "languages": {
-      "Java": 581,
-      "SQL": 60,
+      "Java": 582,
+      "SQL": 61,
       "Python": 4
     }
   },
@@ -4057,6 +4057,20 @@
       "url": "https://leetcode.com/problems/partition-array-for-maximum-sum/"
     },
     {
+      "number": 1045,
+      "title": "Customers Who Bought All Products",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1045-customers-who-bought-all-products",
+      "solutionFiles": [
+        "1045-customers-who-bought-all-products.sql"
+      ],
+      "url": "https://leetcode.com/problems/customers-who-bought-all-products"
+    },
+    {
       "number": 1048,
       "title": "Longest String Chain",
       "difficulty": "Medium",
@@ -6073,6 +6087,20 @@
         "2078-two-furthest-houses-with-different-colors.java"
       ],
       "url": "https://leetcode.com/problems/two-furthest-houses-with-different-colors"
+    },
+    {
+      "number": 2091,
+      "title": "Removing Minimum and Maximum From Array",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2091-removing-minimum-and-maximum-from-array",
+      "solutionFiles": [
+        "2091-removing-minimum-and-maximum-from-array.java"
+      ],
+      "url": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array"
     },
     {
       "number": 2095,
