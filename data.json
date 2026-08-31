@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-30T04:36:55.316Z",
+  "lastUpdated": "2026-08-31T07:23:54.078Z",
   "stats": {
-    "total": 665,
+    "total": 666,
     "difficulty": {
       "Easy": 247,
-      "Medium": 315,
+      "Medium": 316,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 643,
+      "LeetCode": 644,
       "GFG": 22
     },
     "languages": {
-      "Java": 582,
+      "Java": 583,
       "SQL": 61,
       "Python": 4
     }
@@ -6059,6 +6059,20 @@
         "2048-next-greater-numerically-balanced-number.java"
       ],
       "url": "https://leetcode.com/problems/next-greater-numerically-balanced-number"
+    },
+    {
+      "number": 2058,
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "solutionFiles": [
+        "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java"
+      ],
+      "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
     },
     {
       "number": 2062,
