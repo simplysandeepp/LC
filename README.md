@@ -797,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/simplysandeepp/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/simplysandeepp/DSA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/simplysandeepp/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
