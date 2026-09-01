@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-01T06:33:48.538Z",
+  "lastUpdated": "2026-09-01T18:59:23.285Z",
   "stats": {
-    "total": 667,
+    "total": 668,
     "difficulty": {
       "Easy": 247,
-      "Medium": 317,
+      "Medium": 318,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 645,
+      "LeetCode": 646,
       "GFG": 22
     },
     "languages": {
-      "Java": 584,
+      "Java": 585,
       "SQL": 61,
       "Python": 4
     }
@@ -3303,6 +3303,20 @@
         "0673-number-of-longest-increasing-subsequence.java"
       ],
       "url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence"
+    },
+    {
+      "number": 692,
+      "title": "Top K Frequent Words",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0692-top-k-frequent-words",
+      "solutionFiles": [
+        "0692-top-k-frequent-words.java"
+      ],
+      "url": "https://leetcode.com/problems/top-k-frequent-words"
     },
     {
       "number": 695,
