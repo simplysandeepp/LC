@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-31T07:23:54.078Z",
+  "lastUpdated": "2026-09-01T06:33:48.538Z",
   "stats": {
-    "total": 666,
+    "total": 667,
     "difficulty": {
       "Easy": 247,
-      "Medium": 316,
+      "Medium": 317,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 644,
+      "LeetCode": 645,
       "GFG": 22
     },
     "languages": {
-      "Java": 583,
+      "Java": 584,
       "SQL": 61,
       "Python": 4
     }
@@ -8123,6 +8123,20 @@
         "3559-number-of-ways-to-assign-edge-weights-ii.java"
       ],
       "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii"
+    },
+    {
+      "number": 3568,
+      "title": "Minimum Moves to Clean the Classroom",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3568-minimum-moves-to-clean-the-classroom",
+      "solutionFiles": [
+        "3568-minimum-moves-to-clean-the-classroom.java"
+      ],
+      "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom"
     },
     {
       "number": 3607,
