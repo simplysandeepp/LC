@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-01T18:59:23.285Z",
+  "lastUpdated": "2026-09-02T04:33:19.525Z",
   "stats": {
-    "total": 668,
+    "total": 669,
     "difficulty": {
-      "Easy": 247,
+      "Easy": 248,
       "Medium": 318,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 646,
+      "LeetCode": 647,
       "GFG": 22
     },
     "languages": {
-      "Java": 585,
+      "Java": 586,
       "SQL": 61,
       "Python": 4
     }
@@ -8791,6 +8791,20 @@
         "3872-longest-arithmetic-sequence-after-changing-at-most-one-element.java"
       ],
       "url": "https://leetcode.com/problems/longest-arithmetic-sequence-after-changing-at-most-one-element"
+    },
+    {
+      "number": 3875,
+      "title": "Construct Uniform Parity Array I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3875-construct-uniform-parity-array-i",
+      "solutionFiles": [
+        "3875-construct-uniform-parity-array-i.java"
+      ],
+      "url": "https://leetcode.com/problems/construct-uniform-parity-array-i"
     },
     {
       "number": 3875,
