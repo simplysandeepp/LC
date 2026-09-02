@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-02T04:34:55.101Z",
+  "lastUpdated": "2026-09-02T17:56:29.928Z",
   "stats": {
-    "total": 669,
+    "total": 670,
     "difficulty": {
       "Easy": 248,
-      "Medium": 318,
+      "Medium": 319,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 647,
+      "LeetCode": 648,
       "GFG": 22
     },
     "languages": {
-      "Java": 586,
+      "Java": 587,
       "SQL": 61,
       "Python": 4
     }
@@ -3303,6 +3303,20 @@
         "0673-number-of-longest-increasing-subsequence.java"
       ],
       "url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence"
+    },
+    {
+      "number": 687,
+      "title": "Longest Univalue Path",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0687-longest-univalue-path",
+      "solutionFiles": [
+        "0687-longest-univalue-path.java"
+      ],
+      "url": "https://leetcode.com/problems/longest-univalue-path"
     },
     {
       "number": 692,
