@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-02T17:56:29.928Z",
+  "lastUpdated": "2026-09-03T08:06:00.065Z",
   "stats": {
-    "total": 670,
+    "total": 671,
     "difficulty": {
       "Easy": 248,
-      "Medium": 319,
+      "Medium": 320,
       "Hard": 103
     },
     "platform": {
-      "LeetCode": 648,
+      "LeetCode": 649,
       "GFG": 22
     },
     "languages": {
-      "Java": 587,
+      "Java": 588,
       "SQL": 61,
       "Python": 4
     }
@@ -8833,6 +8833,20 @@
         "3875-construct-uniform-parity-array-i.java"
       ],
       "url": "https://leetcode.com/problems/construct-uniform-parity-array-i"
+    },
+    {
+      "number": 3876,
+      "title": "Construct Uniform Parity Array II",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3876-construct-uniform-parity-array-ii",
+      "solutionFiles": [
+        "3876-construct-uniform-parity-array-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/construct-uniform-parity-array-ii"
     },
     {
       "number": 3876,
