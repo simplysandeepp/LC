@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/simplysandeepp/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
+| [0552-student-attendance-record-ii](https://github.com/simplysandeepp/DSA/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/simplysandeepp/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
