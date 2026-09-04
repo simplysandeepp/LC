@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-04T14:45:10.206Z",
+  "lastUpdated": "2026-09-04T14:45:45.228Z",
   "stats": {
-    "total": 672,
+    "total": 673,
     "difficulty": {
-      "Easy": 248,
+      "Easy": 249,
       "Medium": 320,
       "Hard": 104
     },
     "platform": {
-      "LeetCode": 650,
+      "LeetCode": 651,
       "GFG": 22
     },
     "languages": {
-      "Java": 589,
+      "Java": 590,
       "SQL": 61,
       "Python": 4
     }
@@ -2915,6 +2915,20 @@
         "0550-game-play-analysis-iv.sql"
       ],
       "url": "https://leetcode.com/problems/game-play-analysis-iv/"
+    },
+    {
+      "number": 551,
+      "title": "Student Attendance Record I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0551-student-attendance-record-i",
+      "solutionFiles": [
+        "0551-student-attendance-record-i.java"
+      ],
+      "url": "https://leetcode.com/problems/student-attendance-record-i"
     },
     {
       "number": 552,
