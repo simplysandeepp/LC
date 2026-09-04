@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/simplysandeepp/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/simplysandeepp/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0336-palindrome-pairs](https://github.com/simplysandeepp/DSA/tree/main/0336-palindrome-pairs/) | Hard |
+| [0551-student-attendance-record-i](https://github.com/simplysandeepp/DSA/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/simplysandeepp/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/simplysandeepp/DSA/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
