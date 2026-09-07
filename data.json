@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-05T03:55:09.758Z",
+  "lastUpdated": "2026-09-07T14:08:18.087Z",
   "stats": {
-    "total": 673,
+    "total": 674,
     "difficulty": {
       "Easy": 249,
       "Medium": 320,
-      "Hard": 104
+      "Hard": 105
     },
     "platform": {
-      "LeetCode": 651,
+      "LeetCode": 652,
       "GFG": 22
     },
     "languages": {
-      "Java": 590,
+      "Java": 591,
       "SQL": 61,
       "Python": 4
     }
@@ -3887,6 +3887,20 @@
         "0933-number-of-recent-calls.java"
       ],
       "url": "https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75"
+    },
+    {
+      "number": 940,
+      "title": "Distinct Subsequences II",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0940-distinct-subsequences-ii",
+      "solutionFiles": [
+        "0940-distinct-subsequences-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/distinct-subsequences-ii"
     },
     {
       "number": 947,
