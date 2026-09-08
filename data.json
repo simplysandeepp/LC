@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-07T14:08:18.087Z",
+  "lastUpdated": "2026-09-08T18:10:46.113Z",
   "stats": {
-    "total": 674,
+    "total": 675,
     "difficulty": {
-      "Easy": 249,
+      "Easy": 250,
       "Medium": 320,
       "Hard": 105
     },
     "platform": {
-      "LeetCode": 652,
+      "LeetCode": 653,
       "GFG": 22
     },
     "languages": {
-      "Java": 591,
+      "Java": 592,
       "SQL": 61,
       "Python": 4
     }
@@ -8805,6 +8805,20 @@
         "3868-minimum-cost-to-equalize-arrays-using-swaps.java"
       ],
       "url": "https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/"
+    },
+    {
+      "number": 3870,
+      "title": "Count Commas in Range",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3870-count-commas-in-range",
+      "solutionFiles": [
+        "3870-count-commas-in-range.java"
+      ],
+      "url": "https://leetcode.com/problems/count-commas-in-range"
     },
     {
       "number": 3870,
