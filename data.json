@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-08T18:10:46.113Z",
+  "lastUpdated": "2026-09-09T18:15:18.749Z",
   "stats": {
-    "total": 675,
+    "total": 676,
     "difficulty": {
       "Easy": 250,
-      "Medium": 320,
+      "Medium": 321,
       "Hard": 105
     },
     "platform": {
-      "LeetCode": 653,
+      "LeetCode": 654,
       "GFG": 22
     },
     "languages": {
-      "Java": 592,
+      "Java": 593,
       "SQL": 61,
       "Python": 4
     }
@@ -8833,6 +8833,20 @@
         "3870-count-commas-in-range.java"
       ],
       "url": "https://leetcode.com/problems/count-commas-in-range"
+    },
+    {
+      "number": 3871,
+      "title": "Count Commas in Range II",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3871-count-commas-in-range-ii",
+      "solutionFiles": [
+        "3871-count-commas-in-range-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09"
     },
     {
       "number": 3871,
