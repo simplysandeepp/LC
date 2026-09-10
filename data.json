@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-09T18:15:18.749Z",
+  "lastUpdated": "2026-09-10T17:47:10.208Z",
   "stats": {
-    "total": 676,
+    "total": 677,
     "difficulty": {
       "Easy": 250,
-      "Medium": 321,
+      "Medium": 322,
       "Hard": 105
     },
     "platform": {
-      "LeetCode": 654,
+      "LeetCode": 655,
       "GFG": 22
     },
     "languages": {
-      "Java": 593,
+      "Java": 594,
       "SQL": 61,
       "Python": 4
     }
@@ -6493,6 +6493,20 @@
         "2264-largest-3-same-digit-number-in-string.java"
       ],
       "url": "https://leetcode.com/problems/largest-3-same-digit-number-in-string"
+    },
+    {
+      "number": 2265,
+      "title": "Count Nodes Equal to Average of Subtree",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2265-count-nodes-equal-to-average-of-subtree",
+      "solutionFiles": [
+        "2265-count-nodes-equal-to-average-of-subtree.java"
+      ],
+      "url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree"
     },
     {
       "number": 2276,
