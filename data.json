@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-10T17:47:10.208Z",
+  "lastUpdated": "2026-09-11T04:00:09.787Z",
   "stats": {
-    "total": 677,
+    "total": 678,
     "difficulty": {
-      "Easy": 250,
+      "Easy": 251,
       "Medium": 322,
       "Hard": 105
     },
     "platform": {
-      "LeetCode": 655,
+      "LeetCode": 656,
       "GFG": 22
     },
     "languages": {
-      "Java": 594,
+      "Java": 595,
       "SQL": 61,
       "Python": 4
     }
@@ -7969,6 +7969,20 @@
         "3471-find-the-largest-almost-missing-integer.java"
       ],
       "url": "https://leetcode.com/problems/find-the-largest-almost-missing-integer"
+    },
+    {
+      "number": 3483,
+      "title": "Unique 3-Digit Even Numbers",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3483-unique-3-digit-even-numbers",
+      "solutionFiles": [
+        "3483-unique-3-digit-even-numbers.java"
+      ],
+      "url": "https://leetcode.com/problems/unique-3-digit-even-numbers"
     },
     {
       "number": 3488,
