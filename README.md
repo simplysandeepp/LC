@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/simplysandeepp/DSA/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/simplysandeepp/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/simplysandeepp/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/simplysandeepp/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simplysandeepp/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/simplysandeepp/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/simplysandeepp/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/simplysandeepp/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/simplysandeepp/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/simplysandeepp/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/simplysandeepp/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -857,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/simplysandeepp/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/simplysandeepp/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/simplysandeepp/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/simplysandeepp/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
