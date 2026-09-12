@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-11T04:00:09.787Z",
+  "lastUpdated": "2026-09-12T11:18:20.181Z",
   "stats": {
-    "total": 678,
+    "total": 679,
     "difficulty": {
       "Easy": 251,
       "Medium": 322,
-      "Hard": 105
+      "Hard": 106
     },
     "platform": {
-      "LeetCode": 656,
+      "LeetCode": 657,
       "GFG": 22
     },
     "languages": {
-      "Java": 595,
+      "Java": 596,
       "SQL": 61,
       "Python": 4
     }
@@ -7913,6 +7913,20 @@
         "3403-find-the-lexicographically-largest-string-from-the-box-i.java"
       ],
       "url": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i"
+    },
+    {
+      "number": 3414,
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3414-maximum-score-of-non-overlapping-intervals",
+      "solutionFiles": [
+        "3414-maximum-score-of-non-overlapping-intervals.java"
+      ],
+      "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/?envType=daily-question&envId=2026-09-12"
     },
     {
       "number": 3427,
