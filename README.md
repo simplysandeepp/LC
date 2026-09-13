@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/simplysandeepp/DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0178-rank-scores](https://github.com/simplysandeepp/DSA/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/simplysandeepp/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/simplysandeepp/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
