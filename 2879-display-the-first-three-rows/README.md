@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/display-the-first-three-rows/">2879. Display the First Three Rows</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/display-the-first-three-rows">2879. Display the First Three Rows</a></h2><h3>Easy</h3><hr><pre>
 DataFrame: <code>employees</code>
 +-------------+--------+
 | Column Name | Type   |
