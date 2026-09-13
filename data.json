@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-09-13T04:29:12.783Z",
+  "lastUpdated": "2026-09-13T04:44:02.443Z",
   "stats": {
-    "total": 680,
+    "total": 683,
     "difficulty": {
-      "Easy": 251,
-      "Medium": 323,
+      "Easy": 253,
+      "Medium": 324,
       "Hard": 106
     },
     "platform": {
-      "LeetCode": 658,
+      "LeetCode": 661,
       "GFG": 22
     },
     "languages": {
       "Java": 597,
-      "SQL": 61,
+      "SQL": 62,
       "Python": 4
     }
   },
@@ -4183,6 +4183,20 @@
       "url": "https://leetcode.com/problems/product-sales-analysis-i"
     },
     {
+      "number": 1070,
+      "title": "Product Sales Analysis III",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "SQL"
+      ],
+      "path": "1070-product-sales-analysis-iii",
+      "solutionFiles": [
+        "1070-product-sales-analysis-iii.sql"
+      ],
+      "url": "https://leetcode.com/problems/product-sales-analysis-iii"
+    },
+    {
       "number": 1071,
       "title": "Greatest Common Divisor of Strings",
       "difficulty": "Easy",
@@ -7193,6 +7207,26 @@
         "2879-display-the-first-three-rows.py"
       ],
       "url": "https://leetcode.com/problems/display-the-first-three-rows/"
+    },
+    {
+      "number": 2882,
+      "title": "Drop Duplicate Rows",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [],
+      "path": "2882-drop-duplicate-rows",
+      "solutionFiles": [],
+      "url": "https://leetcode.com/problems/drop-duplicate-rows"
+    },
+    {
+      "number": 2883,
+      "title": "Drop Missing Data",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [],
+      "path": "2883-drop-missing-data",
+      "solutionFiles": [],
+      "url": "https://leetcode.com/problems/drop-missing-data"
     },
     {
       "number": 2884,
