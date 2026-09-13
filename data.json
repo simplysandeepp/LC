@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-12T11:18:20.181Z",
+  "lastUpdated": "2026-09-13T04:29:12.783Z",
   "stats": {
-    "total": 679,
+    "total": 680,
     "difficulty": {
       "Easy": 251,
-      "Medium": 322,
+      "Medium": 323,
       "Hard": 106
     },
     "platform": {
-      "LeetCode": 657,
+      "LeetCode": 658,
       "GFG": 22
     },
     "languages": {
-      "Java": 596,
+      "Java": 597,
       "SQL": 61,
       "Python": 4
     }
@@ -3677,6 +3677,20 @@
         "0834-sum-of-distances-in-tree.java"
       ],
       "url": "https://leetcode.com/problems/sum-of-distances-in-tree"
+    },
+    {
+      "number": 835,
+      "title": "Image Overlap",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0835-image-overlap",
+      "solutionFiles": [
+        "0835-image-overlap.java"
+      ],
+      "url": "https://leetcode.com/problems/image-overlap"
     },
     {
       "number": 841,
