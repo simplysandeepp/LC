@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-09-13T04:44:02.443Z",
+  "lastUpdated": "2026-09-13T04:46:03.822Z",
   "stats": {
-    "total": 683,
+    "total": 684,
     "difficulty": {
-      "Easy": 253,
+      "Easy": 254,
       "Medium": 324,
       "Hard": 106
     },
     "platform": {
-      "LeetCode": 661,
+      "LeetCode": 662,
       "GFG": 22
     },
     "languages": {
       "Java": 597,
       "SQL": 62,
-      "Python": 4
+      "Python": 5
     }
   },
   "problems": [
@@ -7193,6 +7193,20 @@
         "2833-furthest-point-from-origin.java"
       ],
       "url": "https://leetcode.com/problems/furthest-point-from-origin"
+    },
+    {
+      "number": 2877,
+      "title": "Create a DataFrame from List",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Python"
+      ],
+      "path": "2877-create-a-dataframe-from-list",
+      "solutionFiles": [
+        "2877-create-a-dataframe-from-list.py"
+      ],
+      "url": "https://leetcode.com/problems/create-a-dataframe-from-list"
     },
     {
       "number": 2879,
