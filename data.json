@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-09-13T04:46:03.822Z",
+  "lastUpdated": "2026-09-14T04:42:25.956Z",
   "stats": {
-    "total": 684,
+    "total": 690,
     "difficulty": {
-      "Easy": 254,
+      "Easy": 260,
       "Medium": 324,
       "Hard": 106
     },
     "platform": {
-      "LeetCode": 662,
+      "LeetCode": 668,
       "GFG": 22
     },
     "languages": {
-      "Java": 597,
+      "Java": 598,
       "SQL": 62,
-      "Python": 5
+      "Python": 10
     }
   },
   "problems": [
@@ -3693,6 +3693,20 @@
       "url": "https://leetcode.com/problems/image-overlap"
     },
     {
+      "number": 836,
+      "title": "Rectangle Overlap",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0836-rectangle-overlap",
+      "solutionFiles": [
+        "0836-rectangle-overlap.java"
+      ],
+      "url": "https://leetcode.com/problems/rectangle-overlap/description/?envType=daily-question&envId=2026-09-14"
+    },
+    {
       "number": 841,
       "title": "Keys and Rooms",
       "difficulty": "Medium",
@@ -7209,6 +7223,20 @@
       "url": "https://leetcode.com/problems/create-a-dataframe-from-list"
     },
     {
+      "number": 2878,
+      "title": "Get the Size of a DataFrame",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Python"
+      ],
+      "path": "2878-get-the-size-of-a-dataframe",
+      "solutionFiles": [
+        "2878-get-the-size-of-a-dataframe.py"
+      ],
+      "url": "https://leetcode.com/problems/get-the-size-of-a-dataframe"
+    },
+    {
       "number": 2879,
       "title": "Display the First Three Rows",
       "difficulty": "Easy",
@@ -7220,7 +7248,35 @@
       "solutionFiles": [
         "2879-display-the-first-three-rows.py"
       ],
-      "url": "https://leetcode.com/problems/display-the-first-three-rows/"
+      "url": "https://leetcode.com/problems/display-the-first-three-rows"
+    },
+    {
+      "number": 2880,
+      "title": "Select Data",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Python"
+      ],
+      "path": "2880-select-data",
+      "solutionFiles": [
+        "2880-select-data.py"
+      ],
+      "url": "https://leetcode.com/problems/select-data"
+    },
+    {
+      "number": 2881,
+      "title": "Create a New Column",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Python"
+      ],
+      "path": "2881-create-a-new-column",
+      "solutionFiles": [
+        "2881-create-a-new-column.py"
+      ],
+      "url": "https://leetcode.com/problems/create-a-new-column"
     },
     {
       "number": 2882,
@@ -7268,7 +7324,35 @@
       "solutionFiles": [
         "2886-change-data-type.py"
       ],
-      "url": "https://leetcode.com/problems/change-data-type/"
+      "url": "https://leetcode.com/problems/change-data-type"
+    },
+    {
+      "number": 2890,
+      "title": "Reshape Data: Melt",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Python"
+      ],
+      "path": "2890-reshape-data-melt",
+      "solutionFiles": [
+        "2890-reshape-data-melt.py"
+      ],
+      "url": "https://leetcode.com/problems/reshape-data-melt"
+    },
+    {
+      "number": 2891,
+      "title": "Method Chaining",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Python"
+      ],
+      "path": "2891-method-chaining",
+      "solutionFiles": [
+        "2891-method-chaining.py"
+      ],
+      "url": "https://leetcode.com/problems/method-chaining"
     },
     {
       "number": 2894,
