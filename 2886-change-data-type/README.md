@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/change-data-type/">2886. Change Data Type</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/change-data-type">2886. Change Data Type</a></h2><h3>Easy</h3><hr><pre>
 DataFrame <code>students</code>
 +-------------+--------+
 | Column Name | Type   |
