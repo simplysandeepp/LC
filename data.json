@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-15T06:46:34.843Z",
+  "lastUpdated": "2026-09-15T17:02:47.667Z",
   "stats": {
-    "total": 691,
+    "total": 692,
     "difficulty": {
       "Easy": 260,
       "Medium": 324,
-      "Hard": 107
+      "Hard": 108
     },
     "platform": {
-      "LeetCode": 669,
+      "LeetCode": 670,
       "GFG": 22
     },
     "languages": {
@@ -949,6 +949,16 @@
         "0085-maximal-rectangle.java"
       ],
       "url": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+      "number": 87,
+      "title": "Scramble String",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [],
+      "path": "0087-scramble-string",
+      "solutionFiles": [],
+      "url": "https://leetcode.com/problems/scramble-string"
     },
     {
       "number": 88,
