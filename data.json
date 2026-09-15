@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-14T04:42:25.956Z",
+  "lastUpdated": "2026-09-15T06:46:34.843Z",
   "stats": {
-    "total": 690,
+    "total": 691,
     "difficulty": {
       "Easy": 260,
       "Medium": 324,
-      "Hard": 106
+      "Hard": 107
     },
     "platform": {
-      "LeetCode": 668,
+      "LeetCode": 669,
       "GFG": 22
     },
     "languages": {
-      "Java": 598,
+      "Java": 599,
       "SQL": 62,
       "Python": 10
     }
@@ -6787,6 +6787,20 @@
         "2469-convert-the-temperature.java"
       ],
       "url": "https://leetcode.com/problems/convert-the-temperature"
+    },
+    {
+      "number": 2472,
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "solutionFiles": [
+        "2472-maximum-number-of-non-overlapping-palindrome-substrings.java"
+      ],
+      "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/?envType=daily-question&envId=2026-09-15"
     },
     {
       "number": 2485,
