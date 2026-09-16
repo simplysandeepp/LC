@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-15T17:02:47.667Z",
+  "lastUpdated": "2026-09-16T03:00:33.903Z",
   "stats": {
-    "total": 692,
+    "total": 693,
     "difficulty": {
       "Easy": 260,
-      "Medium": 324,
+      "Medium": 325,
       "Hard": 108
     },
     "platform": {
-      "LeetCode": 670,
+      "LeetCode": 671,
       "GFG": 22
     },
     "languages": {
-      "Java": 599,
+      "Java": 600,
       "SQL": 62,
       "Python": 10
     }
@@ -5479,6 +5479,20 @@
         "1611-minimum-one-bit-operations-to-make-integers-zero.java"
       ],
       "url": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero"
+    },
+    {
+      "number": 1621,
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "solutionFiles": [
+        "1621-number-of-sets-of-k-non-overlapping-line-segments.java"
+      ],
+      "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments"
     },
     {
       "number": 1625,
