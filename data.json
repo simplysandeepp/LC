@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:05:29.343Z",
+  "lastUpdated": "2026-09-16T03:07:10.550Z",
   "stats": {
     "total": 693,
     "difficulty": {
@@ -2364,7 +2364,7 @@
       "solutionFiles": [
         "0342-power-of-four.java"
       ],
-      "url": "https://leetcode.com/problems/power-of-four/?envType=problem-list-v2&envId=math"
+      "url": "https://leetcode.com/problems/power-of-four"
     },
     {
       "number": 344,
