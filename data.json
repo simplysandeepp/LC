@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:17:17.117Z",
+  "lastUpdated": "2026-09-16T03:17:36.822Z",
   "stats": {
     "total": 694,
     "difficulty": {
@@ -2140,7 +2140,7 @@
       "solutionFiles": [
         "0279-perfect-squares.java"
       ],
-      "url": "https://leetcode.com/problems/perfect-squares/description/?envType=problem-list-v2&envId=math"
+      "url": "https://leetcode.com/problems/perfect-squares"
     },
     {
       "number": 283,
