@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:00:33.903Z",
+  "lastUpdated": "2026-09-16T03:05:29.343Z",
   "stats": {
     "total": 693,
     "difficulty": {
@@ -5481,20 +5481,6 @@
       "url": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero"
     },
     {
-      "number": 1621,
-      "title": "Number of Sets of K Non-Overlapping Line Segments",
-      "difficulty": "Medium",
-      "platform": "LeetCode",
-      "languages": [
-        "Java"
-      ],
-      "path": "1621-number-of-sets-of-k-non-overlapping-line-segments",
-      "solutionFiles": [
-        "1621-number-of-sets-of-k-non-overlapping-line-segments.java"
-      ],
-      "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments"
-    },
-    {
       "number": 1625,
       "title": "Lexicographically Smallest String After Applying Operations",
       "difficulty": "Medium",
@@ -5675,6 +5661,20 @@
         "1722-minimize-hamming-distance-after-swap-operations.java"
       ],
       "url": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations"
+    },
+    {
+      "number": 1725,
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "solutionFiles": [
+        "1621-number-of-sets-of-k-non-overlapping-line-segments.java"
+      ],
+      "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments"
     },
     {
       "number": 1731,
