@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-16T03:07:10.550Z",
+  "lastUpdated": "2026-09-16T03:17:17.117Z",
   "stats": {
-    "total": 693,
+    "total": 694,
     "difficulty": {
       "Easy": 260,
-      "Medium": 325,
+      "Medium": 326,
       "Hard": 108
     },
     "platform": {
-      "LeetCode": 671,
+      "LeetCode": 672,
       "GFG": 22
     },
     "languages": {
-      "Java": 600,
+      "Java": 601,
       "SQL": 62,
       "Python": 10
     }
@@ -2127,6 +2127,20 @@
       "path": "0273-integer-to-english-words",
       "solutionFiles": [],
       "url": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+      "number": 279,
+      "title": "Perfect Squares",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0279-perfect-squares",
+      "solutionFiles": [
+        "0279-perfect-squares.java"
+      ],
+      "url": "https://leetcode.com/problems/perfect-squares/description/?envType=problem-list-v2&envId=math"
     },
     {
       "number": 283,
